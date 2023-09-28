@@ -1,0 +1,150 @@
+{
+    "intents": [
+        {
+            "tag": "Cumprimento",
+            "responses": [
+            "Olá :-)",
+            "Olá, obrigado pela visita",
+            "Oi, o que eu posso fazer para ajudar?",
+            "Olá, como posso ajudar?",
+            "Olá! Bem-vindo(a) à Refriartec! Como posso ajudá-lo(a) hoje? Você está procurando informações sobre nossos produtos ou serviços?",
+            "Olá! Bem-vindo ao chatbot da Refriartec. Como posso ajudar você hoje? Estou disponível para responder perguntas sobre nossos produtos, serviços, instalação e orçamentos."
+            ]
+        },
+        {
+            "tag": "Despedida",
+            "responses": [
+            "Até mais, obrigado pela visita",
+            "Tenha um ótimo dia",
+            "Tchau! Volte logo."
+            ]
+        },
+        {
+            "tag": "Agradecimento",
+            "responses": ["Fico feliz em ajudar!", "Foi um prazer!", "Por nada"]
+        },
+        {
+            "tag": "Serviço",
+            "responses": [
+            "Vendemos,consertamos e instalando equipamentos como máquinas lava e seca, secadoras e ar condicionados",
+            "Fazemos manutenções preventivas e corretivas, instalamos e vendemos equipamentos como máquinas lava e seca, secadoras e ar condicionados",
+            "A Refriartec oferece diversos produtos relacionados à refrigeração comercial, como sistemas de refrigeração, câmaras frigoríficas, balcões frigoríficos, expositores refrigerados, entre outros. Além disso, a empresa também oferece serviços de instalação, manutenção e reparo desses produtos. Posso ajudá-lo a saber mais sobre algum produto ou serviço específico?",
+            "A Refriartec possui uma ampla variedade de opções de refrigeração em seu catálogo. Entre elas, podemos destacar sistemas de refrigeração comercial, câmaras frigoríficas, balcões frigoríficos, expositores refrigerados, entre outros. Cada um desses produtos é projetado para atender às necessidades específicas de refrigeração do cliente. Além disso, a empresa também oferece serviços de instalação, manutenção e reparo para garantir o bom funcionamento desses produtos ao longo do tempo. Posso ajudá-lo com mais informações sobre algum produto específico?"
+            ]
+        },
+        {
+            "tag": "Pagamento",
+            "responses": [
+            "Aceitamos cartão de crédito, debito, dinheiro e pix",
+            "Aceitamos todas as bandeiras de cartão, além de dinheiro e pix"
+            ]
+        },
+        {
+            "tag": "Delivery",
+            "responses": [
+            "A entrega demora em média 5 dias úteis",
+            "Até 5 dias úteis",
+            " Oferecemos serviços de entrega rápida e segura para garantir que você receba seus produtos no prazo. Os prazos de entrega podem variar dependendo da localização e do produto adquirido."
+            ]
+        },
+        {
+            "tag": "Agendamento",
+            "responses": [
+            "Para agendar a instalação de um equipamento de refrigeração em sua loja, você pode entrar em contato com a Refriartec através do telefone (11) 2059-5799 ou enviar uma mensagem para o e-mail contato@refriartec.com.br. A empresa também possui um formulário de contato em seu site, onde você pode preencher seus dados e solicitar um orçamento ou agendamento de serviço. A equipe técnica da Refriartec irá verificar a disponibilidade de agenda e agendar a instalação para a data e horário mais adequados para você. Lembre-se que é importante realizar a instalação de equipamentos de refrigeração com profissionais capacitados para garantir a segurança e o bom funcionamento dos equipamentos. Estamos à disposição para ajudá-lo em qualquer etapa do processo"
+            ]
+        },
+        {
+            "tag": "Instalação",
+            "responses": [
+            "A instalação ocorre em média em até 3 dias uteis após o pagamento",
+            "Geralmente a instalação é feita 3 dias após a confirmação do pagamento.",
+            "a Refriartec oferece serviços de instalação de equipamentos de refrigeração. A empresa possui uma equipe técnica altamente capacitada que realiza a instalação de diversos equipamentos, como sistemas de refrigeração comercial, câmaras frigoríficas, balcões frigoríficos, expositores refrigerados, entre outros. A instalação é feita de forma segura e eficiente para garantir o bom funcionamento do equipamento."
+            ]
+        },
+        {
+            "tag": "Telefone",
+            "responses": [
+            "Olá! Obrigado por perguntar. Para entrar em contato conosco, você pode ligar para o número (11) 3438-7714 ou preencher o formulário de contato em nosso site. Ficaremos felizes em ajudá-lo.",
+            "Nosso número é (11) 3438-7714. "
+            ]
+        },
+        {
+            "tag": "Email",
+            "responses": [
+            "Para entrar em contato com a Refriartec por e-mail, você pode enviar uma mensagem para o endereço de e-mail contato@refriartec.com.br. Eles terão prazer em ajudá-lo com quaisquer perguntas ou solicitações que você possa ter. Além disso, você também pode preencher o formulário de contato em seu site, que pode ser encontrado na seção 'Contato' do menu principal."
+            ]
+        },
+        {
+            "tag": "Atendimento",
+            "responses": [
+            "A Refriartec está disponível para atendimento de segunda a sexta-feira, das 8h às 18h, e aos sábados, das 8h às 12h. Você pode entrar em contato conosco durante esses horários através de nosso site, e-mail ou telefone. Como posso ajudá-lo mais?"
+            ]
+        },
+        {
+            "tag": "Informações",
+            "responses": [
+            "Para informações detalhadas entre em contato pelo nosso telefone ou e-mail."
+            ]
+        }
+        ,
+        {
+            "tag": "Garantia",
+            "responses": [
+            "A Refriartec tem orgulho de oferecer garantia em todos os produtos vendidos. Nossa política de garantia é projetada para proteger os interesses de nossos clientes e garantir a qualidade de nossos produtos. Para mais informações nos contate por telefone.",
+            "Nossa garantia cobre defeitos de fabricação e problemas relacionados ao desempenho normal do produto. Se ocorrerem problemas dentro do período de garantia, consertaremos ou substituiremos o produto, conforme necessário. Para mais informações nos contate por telefone."
+            ]
+        }
+        ,
+        {
+            "tag": "Suporte",
+            "responses": [
+            "Oferecemos diversos canais de suporte para sua conveniência. Você pode entrar em contato conosco por telefone, e-mail, chat online ou visitando uma de nossas filiais. Escolha o método que melhor se adapte às suas necessidades.",
+            "Se você estiver enfrentando um problema com um de nossos produtos, nossa equipe de suporte terá prazer em ajudá-lo a diagnosticar e solucionar o problema por telefone ou agendar uma visita técnica, se necessário. Para mais informações nos contate por telefone."
+            ]
+        }
+        ,
+        {
+            "tag": "Localização",
+            "responses": [
+            "Estamos localizados na rua tal tal tal"
+            ]
+        }
+        ,
+        {
+            "tag": "Preço",
+            "responses": [
+            "Na Refriartec, valorizamos a transparência em relação aos preços de nossos produtos e serviços. Trabalhamos para oferecer preços competitivos e justos aos nossos clientes. Orçamentos apenas presencialmente ou por telefone.",
+            "Nossa linha de produtos abrange uma variedade de faixas de preço para atender a diferentes orçamentos. Temos opções acessíveis para residências, bem como soluções premium para empresas e indústrias. Orçamentos apenas presencialmente ou por telefone."
+            ]
+        }
+        ,
+        {
+            "tag": "Produtos",
+            "responses": [
+            " Na Refriartec, oferecemos uma ampla gama de produtos de alta qualidade relacionados à refrigeração e climatização. Venha conhecer nossa loja.",
+            "Temos uma variedade de modelos de ar condicionado, adequados para residências, escritórios e espaços comerciais. Orçamentos apenas presencialmente ou por telefone."
+            ]
+        }
+        ,
+        {
+            "tag": "Promoção",
+            "responses": [
+            "Promoções válidas somente para compras presenciais e enquanto durarem os estoques. Para mais informações nos contate por telefone."
+            ]
+        }
+        ,
+        {
+            "tag": "Midias",
+            "responses": [
+            "Acesse nosso site e confira nossas redes sociais."
+            ]
+        }
+        ,
+        {
+            "tag": "Atendente",
+            "responses": [
+            "Para falar com um atendente, você pode ligar para o número (11) 3438-7714 ou preencher o formulário de contato em nosso site. Ficaremos felizes em ajudá-lo."
+            ]
+        }
+    ]
+}
