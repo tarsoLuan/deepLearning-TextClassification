@@ -13,11 +13,11 @@ def predict():
     json_ = request.json
     print(json_)
     response = get_response(json_['message'])
-    
+
     message = {"answer": response}
 
     return jsonify(message)
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=8000)
